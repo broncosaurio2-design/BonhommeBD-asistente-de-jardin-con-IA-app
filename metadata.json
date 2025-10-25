@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BonhommeBD (asistente de jardinería con ia)",
+  "description": "Un asistente de jardinería impulsado por IA que identifica plantas a partir de fotos, proporciona instrucciones de cuidado detalladas y responde a todas tus preguntas de jardinería a través de un chatbot interactivo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
